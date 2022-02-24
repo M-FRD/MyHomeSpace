@@ -90,10 +90,10 @@ body{
     display: flex;
     justify-content: center;
     align-items: center ;
-    width: calc(5rem*(1/0.7));
+    width: 5rem;
     height: 5rem;
-    font-size: 3rem;
-    transform: scaleX(.7);
+    margin: 0 2rem;
+    font-size: 2rem;
     color: white;
     background-color: #662f32EE;
     border-radius: 50%;
